@@ -1,0 +1,15 @@
+.error {
+  background-color: #f8d7da;
+  color: red;
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+}
+.dataStyle {
+  color: white;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  font-size: 25px;
+}
+.dataStyle:last-child {
+  border: none;
+}

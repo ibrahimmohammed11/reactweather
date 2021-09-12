@@ -1,0 +1,22 @@
+.inpStyle {
+  width: 100%;
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 16px 0px 16px 0px;
+  border-bottom: 3px solid #df8e00;
+
+  color: #313131;
+  font-size: 20px;
+  font-weight: 300;
+  transition: 0.2s ease-out;
+}
+.btnStyle {
+  background-color: black;
+  color: white;
+}
+.btnStyle:hover {
+  background-color: white;
+  color: black;
+}
